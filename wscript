@@ -9,14 +9,14 @@
 def build(bld):
     module = bld.create_ns3_module('lifi', ['internet', 'mobility'])
     module.source = [
-        'model/lifi-propagation-loss-model.cc',
-        'model/lifi-snr.cc',
+        # 'model/lifi-propagation-loss-model.cc',
+        # 'model/lifi-snr.cc',
         'model/lifi-phy.cc',
        # 'model/lifi-net-device.cc',
-        'model/lifi-mobility-model.cc', 
-        'model/lifi-error-model.cc',
+        # 'model/lifi-mobility-model.cc', 
+        # 'model/lifi-error-model.cc',
         'model/lifi-channel.cc',
-        'model/tdma-mac.cc',
+        # 'model/tdma-mac.cc',
         'model/tdma-central-mac.cc',
         'model/lifi-net-device.cc',
         'model/lifi-tx-net-device.cc',
