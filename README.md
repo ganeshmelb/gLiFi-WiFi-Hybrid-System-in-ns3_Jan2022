@@ -1,3 +1,12 @@
++++++++++++++++++++++++++++
+#Update 
+Author: GRS
+Date: 
+2023-01-02   -  Bring the July27withController.cc to the main latest version/commit
+
++++++++++++++++++++++++++++
+
+
 # LiFi-in-ns3
 We provide Light Fidelity (LiFi) module, implemented in NS3, and integrated with WiFi module of the ns3 to perform scalable hybrid LiFi and WiFi simulations. 
 But before you execute LiFi module you need to have NS3 installed on your Ubuntu/MAC machine. This work is based on the on ns3.31 and Ubuntu 20.04, however, you can adopt it with minimum modifications to the NS3 and ubuntu versions of your choice. For complete installation and tutorial refere to the relevant sections at the links given below:
